@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ラヴ・ミー",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2026-03-08T06:57:15.711842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラヴ・ミー・オア・リーヴ・ミー",
+      "artist": "Anita O'Day",
+      "has_synced": false,
+      "path": "select/01_ラヴ・ミー・オア・リーヴ・ミー_Anita_O'Day.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドゥー・ユー・ラヴ・ミー",
+      "artist": "Escape the Fate",
+      "has_synced": false,
+      "path": "select/02_ドゥー・ユー・ラヴ・ミー_Escape_the_Fate.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Me",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Me_Justin_Bieber.txt"
+    }
+  ]
+}
